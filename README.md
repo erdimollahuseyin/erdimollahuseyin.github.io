@@ -1,6 +1,6 @@
 ## Erdi Mollahüseyinoğlu
 
-This is the repository for my [blog](https://erdi.mollahuseyinoglu.com). I sometimes write about things I find interesting.
+This is the repository for my [blog](http://erdi.mollahuseyinoglu.com). I sometimes write about things I find interesting.
 
 ### Usage
 
