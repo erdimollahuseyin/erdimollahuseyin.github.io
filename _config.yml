@@ -1,0 +1,30 @@
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: erdimollahuseyin/erdi.mollahuseyinoglu.com
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+google_analytics: 'UA-40495390-2'
+title: Erdi Mollahüseyinoğlu
+description: Erdi's portfolio and writings on python, django.
+url: http://erdi.mollahuseyinoglu.com
+author: Erdi Mollahüseyinoğlu
+logo: images/contents/NN.png
+social:
+  name: Erdi
+  links:
+    - https://twitter.com/EMollahuseyin
+    - https://www.linkedin.com/in/erdi-mollahuseyinoglu/
+    - https://github.com/erdimollahuseyin

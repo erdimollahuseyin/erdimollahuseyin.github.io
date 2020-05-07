@@ -1,0 +1,43 @@
+      </div><!-- #main -->
+
+      <div class="clear"></div>
+
+      <div id="fotterLinks">
+        <a href="https://www.linkedin.com/in/erdi-mollahuseyinoglu/" alt="LinkedIn" target="_blank" onclick="trackOutboundLink('https://www.linkedin.com/in/erdi-mollahuseyinoglu?loc=bottom');">LinkedIn</a>
+        |
+        <a href="https://github.com/erdimollahuseyin" alt="Github" target="_blank" onclick="trackOutboundLink('http://github.com/?loc=bottom');">Github</a>
+        |
+        <a href="https://medium.com/@erdimollahseyin" alt="Medium" target="_blank" onclick="trackOutboundLink('https://medium.com/?loc=bottom');">Medium</a>
+        |
+        <a href="https://twitter.com/EMollahuseyin" alt="Twitter" target="_blank" onclick="trackOutboundLink('http://twitter.com/?loc=bottom');">Twitter</a>
+        |
+        <a href="mailto:erdimollahuseyin@gmail.com" alt="email" target="_blank" onclick="trackOutboundLink('mailto:erdimollahuseyin@gmail.com');">Email</a>
+      </div>
+
+      <div id="copyright">
+        &copy; 2019–{{ 'now' | date: "%Y" }} <a href="http://erdi.mollahuseyinoglu.com/">Erdi Mollahüseyinoğlu</a>. All rights reserved.
+      </div>
+    </div><!-- .wrap -->
+  </div><!-- #container -->
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="/js/toc/toc.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.toc').toc({
+        title: '',
+        listType: 'ol',
+        minimumHeaders: 2,
+        headers: 'h2, h3, h4, h5, h6',
+        linkHere: true,
+        linkHereTitle: 'Link here',
+        backToTop: true,
+        backToTopId: 'toc',
+        backToTopTitle: 'Back to Table of Contents',
+      });
+      $('.jekyll-toc-header a.jekyll-toc-link-here span.jekyll-toc-icon').addClass('icon icon-link');
+      $('.jekyll-toc-header a.jekyll-toc-back-to-top span.jekyll-toc-icon').addClass('icon icon-chevron-up');
+    });
+  </script>
+</body>
+</html>
