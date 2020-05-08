@@ -316,19 +316,6 @@ def news_content_list(request, author_id):
     return HttpResponseNotAllowed(['GET'])
 ```
 
-Look in our `news_content_list.html` file:
-
-```
-{% for news_content in object_list %}
-   <ul>
-        <li>
-            {{ news_content.headline }}, {{ news_content.author }}
-        </li>
-        <li>{{ news_content.body }}</li>
-    </ul>
-{% endfor %}
-```
-
 ## Plan Our Testing
 
 Let’s add our first test. If we have 5 news contents by a single author we have to assure that the view lists them all.
