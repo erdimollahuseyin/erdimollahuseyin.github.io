@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build a Django RESTful API
-category: Django
+category: Django Rest Framework
 redirect_from: /2019/11/10/build-a-django-restful-api/
 ---
 

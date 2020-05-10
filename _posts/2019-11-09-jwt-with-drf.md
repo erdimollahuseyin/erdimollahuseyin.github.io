@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JWT(JSON Web Token) With DRF
-category: Django
+category: Django Rest Framework
 redirect_from: /2019/11/09/jwt-with-drf/
 ---
 
