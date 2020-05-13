@@ -6,7 +6,7 @@ layout: default
 <div class="hfeed">
   <hr />
   <div class="hentry post no-border">
-    <img src="/images/contents/NN.png" alt="Erdi Mollahüseyinoğlu" class="archive-thumbnail home-thumbnail" width="160" height="200" />
+    <img src="/images/contents/NN.jpg" alt="Erdi Mollahüseyinoğlu" class="archive-thumbnail home-thumbnail" width="160" height="200" />
 
     <div class="entry-summary">
         <p>I am Erdi, an engineer interested in web technologies and data sciences.</p>
