@@ -22,7 +22,7 @@ layout: default
   </div>
 
   <div class="hentry post project-batch-title">
-    <h4>Biges B2B Platform</h4>
+    <h4>Biges B2B Platform - <a href="https://biges.com">See Project</a></h4>
     <div class="entry-summary">
       <p>E-commerce portals. Buyers and sellers meet on the same website. On these platforms, designing such as price offering, bidding and bidding can be realized.</p>
     </div>
