@@ -11,7 +11,7 @@ layout: default
   </div>
 
   <div class="hentry post project-batch-title">
-    <h4>DHAS</h4>
+    <h4>DHAS - <a href="https://dhs.dha.com.tr">See Project</a></h4>
     <div class="entry-summary">
       <p>Text, photo and video news systems for only subscribers.</p>
     </div>
