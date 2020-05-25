@@ -11,7 +11,7 @@ layout: default
   </div>
 
   <div class="hentry post project-batch-title">
-    <h4>DHAS - <a href="https://dhs.dha.com.tr">See Project</a></h4>
+    <h4>DHAS - <a href="https://dhs.dha.com.tr" target="_blank">See Project</a></h4>
     <div class="entry-summary">
       <p>Text, photo and video news systems for only subscribers.</p>
     </div>
@@ -22,7 +22,7 @@ layout: default
   </div>
 
   <div class="hentry post project-batch-title">
-    <h4>Biges B2B Platform - <a href="https://biges.com">See Project</a></h4>
+    <h4>Biges B2B Platform - <a href="https://biges.com" target="_blank">See Project</a></h4>
     <div class="entry-summary">
       <p>E-commerce portals. Buyers and sellers meet on the same website. On these platforms, designing such as price offering, bidding and bidding can be realized.</p>
     </div>
