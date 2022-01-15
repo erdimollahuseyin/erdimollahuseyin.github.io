@@ -6,8 +6,6 @@ layout: default
 <div class="hfeed">
   <hr />
   <div class="hentry post no-border">
-    <img src="#" alt="#" class="archive-thumbnail home-thumbnail" width="160" height="200" />
-
     <div class="entry-summary">
         <p>I am Erdi, an engineer interested in web technologies.</p>
 
