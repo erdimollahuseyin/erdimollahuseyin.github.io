@@ -7,6 +7,17 @@ layout: default
 <div class="hfeed">
 
   <div class="hentry post project-batch-title">
+    <h2>2021</h2>
+  </div>
+
+  <div class="hentry post project-batch-title">
+    <h4>Samsung Shop - <a href="https://shop.samsung.com/tr/" target="_blank">See Project</a></h4>
+    <div class="entry-summary">
+        <p>Work on an omnichannel e-commerce platform called Omnitron. Also I developed ERP and marketplace integrations for companies such as Samsung etc, and marketplaces as Amazon, Trendyol, Hepsiburada, Gittigidiyor, N11.</p>
+    </div>
+  </div>
+
+  <div class="hentry post project-batch-title">
     <h2>2019</h2>
   </div>
 

@@ -6,6 +6,23 @@ layout: default
 
 <div class="hfeed">
 
+<!-- Akinon. -->
+  <div class="hentry post project-batch-title">
+    <h2>Akinon</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <ul class="project-list">
+        <li><a href="#" target="_blank">Omnitron</a>: Developed on omnichannel e-commerce platform.</li>
+        <li><a href="#" target="_blank">Marketplaces</a>: Developed marketplace integrations as Amazon, Trendyol, Hepsiburada, Gittigidiyor, N11.</li>
+        <li><a href="#" target="_blank">Workflow</a>: Preparing detail design documents as per business and functional requirements. Also, involving with the logical/physical data modeling design, ER diagram, process flow modeling.</li>
+        <li><a href="#" target="_blank">Rest API</a>: Developing, design and implementation of the new API endpoints as a part of high-volume to communicate with third-party application.</li>
+        <li><a href="#" target="_blank">Testing</a>: Performing unit & load testing for Rest API's and Views. Resolved technical problems relating to the business-critical customers-facing portal resulting in system performance and scalability improvements.</li>
+      </ul>
+    </div>
+  </div>
+
   <!-- Demirören Technology Inc. -->
   <div class="hentry post project-batch-title">
     <h2>Demirören Tech.Inc.</h2>
