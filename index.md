@@ -7,9 +7,9 @@ layout: default
   <hr />
   <div class="hentry post no-border">
     <div class="entry-summary">
-        <p>I am Erdi, an engineer interested in web technologies.</p>
+        <p>At <a href="https://www.trtworld.com" onclick="trackOutboundLink('https://www.trtworld.com');">TRT World</a>, I currently work on a international VOD platofrm.</p>
 
-        <p>At <a href="https://www.akinon.com" onclick="trackOutboundLink('https://www.akinon.com');">Akinon</a>, I currently work on an omnichannel e-commerce platform called Omnitron. Also I developed ERP and marketplace integrations for companies such as Samsung etc, and marketplaces as Amazon, Trendyol, Hepsiburada, Gittigidiyor, N11.</p>
+        <p>At <a href="https://www.akinon.com" onclick="trackOutboundLink('https://www.akinon.com');">Akinon</a>, I was work on an omnichannel e-commerce platform called Omnitron. Also I developed ERP and marketplace integrations for companies such as Samsung etc, and marketplaces as Amazon, Trendyol, Hepsiburada, Gittigidiyor, N11.</p>
 
         <p>At <a href="https://www.demirorenteknoloji.com" onclick="trackOutboundLink('https://www.demirorenteknoloji.com');">Demirören Technology</a>, I was work on news management and digital media sales platform.</p>
 
