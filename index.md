@@ -16,7 +16,7 @@ layout: default
 
       <p>At <a href="https://www.akinon.com" onclick="trackOutboundLink('https://www.akinon.com');">Akinon</a>, I developed ERP and marketplace integrations for global brands such as Samsung, Vakko, and Lacoste. I also improved asynchronous workflows with Celery to enhance performance and reliability.</p>
 
-      <p>At <a href="https://www.demirorenteknoloji.com" onclick="trackOutboundLink('https://www.demirorenteknoloji.com');">Demirören Technology</a>, I worked on a global news distribution platform for DHA. I implemented real-time notification systems, licensing and billing workflows, and secure media delivery pipelines.</p>
+      <p>At <a href="https://www.demiroren.com.tr" onclick="trackOutboundLink('https://www.demiroren.com.tr');">Demirören Technology</a>, I worked on a global news distribution platform for DHA. I implemented real-time notification systems, licensing and billing workflows, and secure media delivery pipelines.</p>
 
       <p>Prior to Demirören Technology, I was at <a href="https://biges.com" onclick="trackOutboundLink('https://biges.com');">Biges Inc.</a> where I developed IoT and security systems such as alarms, CCTV, biometric access, and GPS tracking, as well as B2B e-commerce platforms.</p>
 
