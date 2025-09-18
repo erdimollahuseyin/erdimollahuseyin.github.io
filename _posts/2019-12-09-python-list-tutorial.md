@@ -34,7 +34,7 @@ Using our understanding of Python types, we might think we could store each data
 ```python
 first_name = 'Erdi'
 last_name = 'Mollahüseyin'
-email = 'erdimollahuseyin@gmail.com'
+email = 'erdimollahuseyinoglu@gmail.com'
 age = 29
 ```
 
@@ -42,15 +42,15 @@ Above, we stored:
 
 - The first name "Erdi" as a string
 - The last name "Mollahüseyin" as a string
-- The email "erdimollahuseyin@gmail.com" as a string
+- The email "erdimollahuseyinoglu@gmail.com" as a string
 - The age 29 as a int
 
 We can store data more efficiently using lists. This is how we can create a list of data points for the first row:
 
 ```python
-user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29]
+user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29]
 print(user_row_1)
-['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29]
+['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29]
 
 type(user_row_1)
 list
@@ -66,20 +66,20 @@ To create a list of data points, we only need to:
 Now let’s create 3 lists:
 
 ```python
-user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29]
+user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29]
 user_row_2 = ['Cengiz', 'Under', 'cengizunder@me.com', 23]
 user_row_3 = ['Burak', 'Yilmaz', 'burakyilmaz@me.com', 32]
 ```
 
 - A list like [7, 8, 9] has identical data types (only integers)
-- While the list ['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29] has mixed data types:
-- Three strings ('Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com')
+- While the list ['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29] has mixed data types:
+- Three strings ('Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com')
 - One integer (29)
 
-The ['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29] list has four data points. To find the length of a list, we can use the **len()** command:
+The ['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29] list has four data points. To find the length of a list, we can use the **len()** command:
 
 ```python
-user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyin@gmail.com', 29]
+user_row_1 = ['Erdi', 'Mollahüseyin', 'erdimollahuseyinoglu@gmail.com', 29]
 print(len(user_row_1))
 4
 
