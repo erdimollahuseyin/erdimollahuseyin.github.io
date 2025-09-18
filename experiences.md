@@ -66,7 +66,6 @@ layout: default
         <li>Delivered projects for global brands including Samsung, Vakko, and Lacoste.</li>
         <li>Improved asynchronous workflows using Celery for better scalability.</li>
         <li><a href="#" target="_blank">Tech Stack</a>: Python, Django, Celery, Elasticsearch, PostgreSQL.</li>
-          </ul>
       </ul>
     </div>
   </div>
@@ -83,7 +82,6 @@ layout: default
         <li>Implemented licensing, billing models, and secure media workflows.</li>
         <li>Delivered real-time notification systems supporting large-scale distribution.</li>
         <li><a href="#" target="_blank">Tech Stack</a>: Python, Django, PostgreSQL, Redis, FastAPI, MongoDB.</li>
-          </ul>
       </ul>
     </div>
   </div>
@@ -100,7 +98,6 @@ layout: default
         <li>Developed B2B reseller platforms for nationwide security device management.</li>
         <li>Delivered biometric access control and fleet vehicle tracking systems.</li>
         <li><a href="#" target="_blank">Tech Stack</a>: Python, Django, PostgreSQL, Redis, Go, gRPC, MongoDB.</li>
-          </ul>
       </ul>
     </div>
   </div>
